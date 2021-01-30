@@ -2,13 +2,14 @@
 
 I'm Chiranthan aka WickedWizard3588. I go by the name WickedWizard3588 on most platforms :)
 
-I am currently learning Javascript and also Coding a Bot [Xyborg](https://dsc.gg/invitexyborg).
+I am currently learning Javascript and C.
 
 I also have a repository on [`YAGPDB.xyz`](https://yagpdb.xyz/) CC's, check them [here](https://github.com/WickedWizard3588/YAGPDB-CC)
 
 # Tech
 
-I mostly use [`VSC/VSCode`](https://code.visualstudio.com/)
+I mostly use [`VSC/VSCode`](https://code.visualstudio.com/), also with [`Github`](https://github.com/).
+
 
 # Stats
 
@@ -20,6 +21,19 @@ I mostly use [`VSC/VSCode`](https://code.visualstudio.com/)
 
 Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gamerscorner) or friending me ;)
 
-_PS:- I usually am available, but will be invisible, so don't hesitate to drop a FR_
+> PS:- I usually am available, but will be invisible, so don't hesitate to drop a FR
 
 [![Discord](https://discord.c99.nl/widget/theme-3/719421577086894101.png)](https://dsc.gg/gamerscorner)
+
+---
+
+# Projects I'm working on
+
+<details>
+    <summary>Xyborg</summary>
+    <br>
+    Xyborg, a multi-functional Discord Bot I'm working on. It is still in Beta Stage and not even halfway completed. Around 15 commands, including Owner Only ones. You can invite it [here](https://dsc.gg/invitexyborg). You can find the Support Server [here](https://dsc.gg/xyborg)
+    </br>
+</details>
+
+That's the only Bot I'm working on right now, and in my Free Time, I usually make some YAGPDB.xyz CC's as mentioned above
