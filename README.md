@@ -32,7 +32,7 @@ Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gam
 <details>
     <summary>Xyborg</summary>
     <br>
-    Xyborg, a multi-functional Discord Bot I'm working on. It is still in Beta Stage and not even halfway completed. Around 15 commands, including Owner Only ones. You can invite it <a href = "https://dsc.gg/invitexyborg" target = "_blank">here</a>. You can find the Support Server <a href = "https://dsc.gg/xyborg" target = "_blank">here</a>.
+    Xyborg, a multi-functional Discord Bot I'm working on. It is still in Beta Stage and not even halfway completed. Around 15 commands, including Owner Only ones. You can invite it <a href = "https://dsc.gg/invitexyborg" target = "_blank">here</a> and find the Support Server <a href = "https://dsc.gg/xyborg" target = "_blank">here</a>.
     </br>
 </details>
 
