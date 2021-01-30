@@ -36,4 +36,9 @@ Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gam
     </br>
 </details>
 
-That's the only Bot I'm working on right now, and in my Free Time, I usually make some YAGPDB.xyz CC's as mentioned above
+<details>
+    <summary>Others</summary>
+    <br>
+    That's the only Bot I'm working on right now, and in my Free Time, I usually make some YAGPDB.xyz CC's as mentioned above
+    </br>
+</details>
