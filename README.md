@@ -4,8 +4,6 @@ I'm Chiranthan aka WickedWizard3588. I go by the name WickedWizard3588 on most p
 
 I am currently learning Javascript and C.
 
-I also have a repository on [`YAGPDB.xyz`](https://yagpdb.xyz/) CC's, check them [here](https://github.com/WickedWizard3588/YAGPDB-CC)
-
 # Tech
 
 I mostly use [`VSC/VSCode`](https://code.visualstudio.com/), also with [`Github`](https://github.com/).
@@ -34,11 +32,4 @@ Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gam
     <br>
     Xyborg, a multi-functional Discord Bot I'm working on. It is still in Beta Stage and not even halfway completed. Around 15 commands, including Owner Only ones. You can invite it <a href = "https://dsc.gg/invitexyborg" target = "_blank">here</a> and find the Support Server <a href = "https://dsc.gg/xyborg" target = "_blank">here</a>.
     </br>
-</details>
-
-<details>
-    <summary>Others</summary>
-    <br>
-    That's the only Bot I'm working on right now, and in my Free Time, I usually make some YAGPDB.xyz CC's as mentioned above
-    </br>
-</details>
+</details
