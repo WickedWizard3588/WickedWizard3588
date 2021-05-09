@@ -32,7 +32,7 @@ Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gam
 # Projects I'm working on
 
 All of them are stale as of today, 08/04/2021, as I need to concentrate on other work.
-By no means, should the below Open-Sourced Projects be considered stable, as all of them are a WIP.
+By no means, should the below Open-Sourced Projects be considered stable (except PC-Setup), as all of them are a WIP.
 
 <details>
     <summary>Xyborg</summary>
