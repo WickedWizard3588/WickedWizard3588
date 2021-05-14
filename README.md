@@ -1,5 +1,7 @@
 <h1 align = "center">Hello 👋</h1>
 
+> _I really don't know from where you were redirected, but, Welcome!!_
+
 I'm Chiranthan aka WickedWizard3588. I go by the name WickedWizard3588 on most platforms :)
 
 I am currently learning Javascript and Typescript.
@@ -30,20 +32,17 @@ Feel free to Chat with me on Discord by joining my [`Server`](https://dsc.gg/gam
 ---
 
 # Projects I'm working on
-
-All of them are stale as of today, 08/04/2021, as I need to concentrate on other work.
-By no means, should the below Open-Sourced Projects be considered stable (except PC-Setup), as all of them are a WIP.
-
+Some of them are a WIP, like `Notes`, so be careful while checking them out.
+<details>
+    <summary>YAGPDB-CC</summary>
+    <br>
+        Custom Commands for YAGPDB, or <code>Yet Another General Purpose Discord Bot</code> on Discord. (Obviously)
+    <br>
+</details>
 <details>
     <summary>Xyborg</summary>
     <br>
         Xyborg, a multi-functional Discord Bot I'm working on. It is still in Beta Stage and not even halfway completed. Around 15 commands, including Owner Only ones. You can invite it <a href = "https://dsc.gg/invitexyborg" target = "_blank">here</a> and find the Support Server <a href = "https://dsc.gg/xyborg" target = "_blank">here</a>.
-    <br>
-</details>
-<details>
-    <summary>Discord-Startup</summary>
-    <br>
-        A framework for <a href = "https://github.com/discordjs/" target = "_blank"><code>discord.js</code></a> that helps in Command and Event Handlings. More to come
     <br>
 </details>
 <details>
